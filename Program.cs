@@ -3,11 +3,6 @@
 public class Program
 {
     /*
-     * ########################################### FYI #################################################################
-     * Since this is a small, straightforward code, I decided not to create a separate README file. 
-     * Instead, I added comments directly within the code for clarity.
-     *
-     * #################################################################################################################
      * This program compares company names from a text file to find names that look similar or might be duplicates.
      * It works in three main steps:
      *
